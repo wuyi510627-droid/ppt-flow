@@ -4,8 +4,6 @@
 
 仓库根目录就是完整技能，包含 SKILL.md、references/、scripts/、assets/ 和 examples/。
 
-![快速示例：用时间线与分支答案表达问题](assets/preview.png)
-
 ## 克隆即安装
 
 本仓库为私有仓库，需使用有访问权限的 GitHub 账号。先完成自己的 HTTPS 或 SSH 认证，再选择一种安装方式。
