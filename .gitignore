@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+.DS_Store
+.env
+.env.*
+ppt-flow-data/
+outputs/
+build/
+dist/
+*.egg-info/
+*.log
+*.pdf
+*.pptx
+!assets/templates/**/*.pptx
+*.zip
