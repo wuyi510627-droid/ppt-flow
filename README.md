@@ -24,7 +24,7 @@ git clone https://github.com/wuyi510627-droid/ppt-flow.git ~/.claude/skills/ppt-
 
 ## 使用
 
-> 使用 ppt-flow，帮我准备一次 30 分钟的组会汇报。结合附件确定论证主线，设计以图为主的页面，最后给我 PPT 和逐页讲稿。
+> 使用 ppt-flow，帮我准备一次 30 分钟的组会汇报。结合附件确定论证主线，设计图文协同、画面有层次的页面，最后给我 PPT 和逐页讲稿。
 
 修改旧稿：
 
