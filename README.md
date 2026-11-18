@@ -1,6 +1,6 @@
 # ppt-flow
 
-中文学术组会 / 讨论班 PPT 技能：用问题组织材料，用图解释机制，生成可编辑幻灯片，同步逐页讲稿与备注。支持 Codex 与 Claude Code。
+中文学术组会 / 讨论班 PPT 技能：用问题组织材料，用文字和图形共同解释机制，生成可编辑幻灯片，同步逐页讲稿与备注。支持 Codex 与 Claude Code。
 
 仓库根目录就是完整技能，包含 SKILL.md、references/、scripts/、assets/ 和 examples/。
 
