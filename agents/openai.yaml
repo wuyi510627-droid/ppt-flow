@@ -1,4 +1,4 @@
 interface:
   display_name: "PPT Flow"
-  short_description: "制作中文学术组会幻灯片，用图讲清方法并同步逐页讲稿与备注"
-  default_prompt: "请使用 $ppt-flow 制作或修改我的组会 PPT，沿用已确认的模板和案例，以图为主并同步讲稿。"
+  short_description: "梳理中文学术组会幻灯片，协调文字与图形并同步逐页讲稿"
+  default_prompt: "请使用 $ppt-flow 制作或修改我的组会 PPT，沿用已确认的模板和案例，保持图文协同、页面有层次，并同步讲稿。开始新主题时先询问我是否已有主题。没有主题时必须完整列出 4 个候选主题的名称和说明，不能只让我回复编号，等我明确同意后再继续。"
