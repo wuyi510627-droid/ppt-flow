@@ -23,4 +23,6 @@
 
 ## 研究资料和个人偏好
 
-优先使用 `PPTFLOW_DATA` 指定目录。未设置时使用当前任务目录的 `ppt-flow-data/`。当前目录在技能仓库内时，用仓库旁的 `ppt-flow-data/`。用 `python scripts/init_data.py` 创建空白目录和缺失文件。`--data-dir` 可显式指定。读取 `profile.md` 和当前主题，选题时可再查阅 `topics/_pool.md`。检索资料可放主题目录的 `rag/`。个人资料存于数据目录，是否对外发布由用户授权。
+先用用户明确指定的资料，随后查阅 `PPTFLOW_DATA`。未指定时查当前任务目录的 `ppt-flow-data/`。任务位于技能仓库内时，查仓库旁的 `ppt-flow-data/`。缺少需要的文件或只有空白选题池时，回到 `SKILL.md` 所在目录的 `assets/personal-data/`，里面有本私有仓库已同步的个人档案、选题池和主题资料。默认研究方向 PDF 位于 `assets/research/`。
+
+用 `python scripts/init_data.py` 创建新的本地空白档案，支持 `--data-dir`，保留已有文件。研究记录和汇报草稿写到工作目录或用户指定的数据目录。用户授权同步时，更新私有仓库的相应资料。

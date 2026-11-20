@@ -71,13 +71,13 @@ Windows 解释器为 .venv\Scripts\python.exe。需要 PDF 转图或数据绘图
 
 ## 个人资料与模板
 
-个人资料不随技能提交：
+此私有仓库已包含[研究方向图谱](assets/research/LLM%20Agent研究方向.pdf)和[个人资料](assets/personal-data/)。克隆后可按选题规则直接使用。需要另外建立本地资料目录时运行下列命令。
 
 ```bash
 python3 scripts/init_data.py --data-dir /你的资料目录/ppt-flow-data
 ```
 
-将 PPTFLOW_DATA 环境变量指向该目录，或在请求中说明资料位置。模板只包含空白档案和选题池。默认位置见 [流程说明](references/process.md)。
+将 PPTFLOW_DATA 环境变量指向该目录，或在请求中说明资料位置。初始化模板提供空白档案和选题池。读取顺序见 [流程说明](references/process.md#研究资料和个人偏好)。
 
 - PPTFLOW_TEMPLATE：替换模板 PPTX；版式索引要求见 [模板说明](assets/templates/seu/template.md)。
 - PPTFLOW_FONT：替换 Noto Sans SC 字体；换字体后重新检查排版。

@@ -12,6 +12,7 @@ dist/
 *.egg-info/
 *.log
 *.pdf
+!assets/research/LLM Agent研究方向.pdf
 *.pptx
 !assets/templates/**/*.pptx
 *.zip
