@@ -15,4 +15,6 @@ dist/
 !assets/research/LLM Agent研究方向.pdf
 *.pptx
 !assets/templates/**/*.pptx
+!assets/reference-decks/Agent Memory.pptx
+!assets/reference-decks/Agent长程任务中的信用分配.pptx
 *.zip
