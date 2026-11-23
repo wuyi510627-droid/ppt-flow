@@ -94,6 +94,4 @@ python3 scripts/check_env.py
 .venv/bin/python -m unittest discover -s tests -v
 ```
 
-原包 33 页 Agent Memory 演示保留在 [历史示例](examples/legacy-agent-memory/README.md)，用于兼容性验证，论文内容需要另行核实。当前制作推荐 quickstart.py 和最新规则。
-
-见 [变更记录](references/changelog.md)。仓库不包含运行凭据，不通过脚本发布 PPT 或发送消息。
+使用 [快速示例](examples/quickstart.py)验证出片流程。完整的排版参考在 [参考 PPT](assets/reference-decks/) 中。规则变更可在 Git 提交历史中查看。
